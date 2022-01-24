@@ -27,7 +27,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning the MERN stack **React & Express**. <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning the MERN stack **React & Express**. <img width="15%" align="right" alt="Github Image" src="https://media4.giphy.com/media/c9IdCLK8TDv1e/giphy.gif?cid=ecf05e47i0wfytxobfcs93z0r6czyuejyvn4i3u8xyo90i30&rid=giphy.gif&ct=g" /><br>
 - <img src="https://github.com/Santana19996/Santana19996/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I'm interested in machine learning and plan on working with Arduino's soon. <br>
 - <img src="https://github.com/Santana19996/Santana19996/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
 - <img src="https://github.com/Santana19996/Santana19996/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on LinkedIn: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
