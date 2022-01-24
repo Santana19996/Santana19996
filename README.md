@@ -1,10 +1,10 @@
 <div align="center" width="50">
 
-<img src="https://github.com/Santana19996/Santana19996/blob/main/images/hellocoders_rounded.gif" href="https://github.com/sp-xd" alt="Hello Coders" width="625"/> <br>
+<img src="https://github.com/Santana19996/Santana19996/blob/main/images/hellocoders_rounded.gif" alt="Hello Coders" width="625"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> 
   
 <p><strong>Anime and Music LOVER. During the day, 
-<br>I spend time with my family & Coder at night.
+<br>I spend time with my family & Code at night.
 <br><br> Vibing to : 🎧  </strong></p>
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
