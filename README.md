@@ -7,7 +7,7 @@
 <br>I spend time with my family & Code at night.
 <br><br> Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/playlist/0vvXsWCC9xrXsKd4FyS8kM) <br>
 
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=Santana19996&style=flat&color=orange&label=PROFILE+VIEWS)
