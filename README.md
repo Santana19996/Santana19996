@@ -7,7 +7,8 @@
 <br>I spend time with my family & Code at night.
 <br><br> Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://santana19996.vercel.app/api/spotify)](https://open.spotify.com/user/31v5wkcq2b7ghju6lp2ezr43gkim)
+
+[![Spotify](https://spotify-readme.santana19996.vercel.app/api/spotify)]
 
 (https://open.spotify.com/playlist/2XNg70Z98ikL5IDK4UqxOn?si=63246f1a8ba746f8) <br>
 
