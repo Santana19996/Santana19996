@@ -12,8 +12,12 @@
 
 
 
-
-
+<br>
+  
+  <img src="https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner4" alt="Discord Banner 4"/>
+  
+<br>
+  
 ![Totals Hits](https://komarev.com/ghpvc/?username=Santana19996&style=flat&color=orange&label=PROFILE+VIEWS)
 
 </div>
