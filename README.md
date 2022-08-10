@@ -65,7 +65,7 @@
 <img src="https://github.com/Santana19996/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/Santana19996" width="700" align="left/>
 
 
-<img src="https://discord.com/api/guilds/987913602444951562/widget.png?style=banner4" alt="Discord Banner 3" align="right"/>
+<img src="https://discord.com/api/guilds/987913602444951562/widget.png?style=banner4" alt="Discord Banner 3"/>
   </div>
 
 </div>
