@@ -65,8 +65,4 @@
 
 </div>
 
-<br>
-  
-  <img src="https://discordapp.com/api/guilds/987913602444951562/widget.png?style=banner4" alt="Discord Banner 4"/>
-  
-<br>
+![Discord Banner 4](https://discordapp.com/api/guilds/987913602444951562/widget.png?style=banner4)
