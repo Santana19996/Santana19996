@@ -8,7 +8,7 @@
 <br><br> Vibing to : 🎧  </strong></p>
 
 
-[![Spotify](https://santana19996.vercel.app/api/spotify)](https://open.spotify.com/user/31v5wkcq2b7ghju6lp2ezr43gkim)
+[![Spotify](https://spotify-player-4-readme.herokuapp.com/)](https://open.spotify.com/user/31v5wkcq2b7ghju6lp2ezr43gkim)
 
 
 
