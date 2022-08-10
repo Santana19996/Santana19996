@@ -65,5 +65,5 @@
 
 
 
-![Discord Banner 4](https://discord.com/api/guilds/987913602444951562/widget.png?style=banner4)
+![Discord Banner 4](https://discord.com/api/guilds/987913602444951562/widget.png?style=banner3)
 </div>
