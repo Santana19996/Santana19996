@@ -13,7 +13,7 @@
 
 
 
-<img src="https://discordapp.com/api/guilds/Jinsu's Denじんす/widget.png?style=banner4" alt="Discord Banner 4"/>
+
 ![Totals Hits](https://komarev.com/ghpvc/?username=Santana19996&style=flat&color=orange&label=PROFILE+VIEWS)
 
 </div>
