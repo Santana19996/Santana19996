@@ -14,7 +14,7 @@
 
 <br>
   
-  <img src="https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner4" alt="Discord Banner 4"/>
+  <img src="https://discordapp.com/api/guilds/987913602444951562/widget.png?style=banner4" alt="Discord Banner 4"/>
   
 <br>
   
