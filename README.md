@@ -54,7 +54,8 @@
 <a  href="https://github.com/Santana19996">
   
 <img alt="github stats" width="54%" src="https://github-readme-stats.vercel.app/api?username=Santana19996&show_icons=true&count_private=true&hide_border=true&bg_color=50,A9A9A9,191919&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/sp-xd" />
-<img alt="Top Langs" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santana19996&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/sp-xd" />
+
+<img alt="Top Langs" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santana19996&layout=compact&count_private=true&&hide_border=true&bg_color=50,A9A9A9,191919&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/sp-xd" />
 
 </a>
 
