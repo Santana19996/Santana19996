@@ -45,10 +45,10 @@
 
 
 -  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; **I’m currently working as Java Developer**. <img width="15%" align="right" alt="Github Image" src="https://media4.giphy.com/media/c9IdCLK8TDv1e/giphy.gif?cid=ecf05e47i0wfytxobfcs93z0r6czyuejyvn4i3u8xyo90i30&rid=giphy.gif&ct=g" /><br>
-- <img src="https://github.com/Santana19996/Santana19996/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I'm interested in machine learning and plan on working with Arduino's. <br>
-- <img src="https://github.com/Santana19996/Santana19996/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
+- <img src="https://github.com/Santana19996/Santana19996/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I'm interested in React, Machine Learning, and Cyber Security. <br>
+- <img src="https://github.com/Santana19996/Santana19996/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or Music**. <br>
 - <img src="https://github.com/Santana19996/Santana19996/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on LinkedIn: <a href="https://www.linkedin.com/in/oscar-sanana2014/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oscar-santana2014/" height="30" width="40" /></a> <br>
-- &nbsp;&nbsp;<img src="https://github.com/Santana19996/Santana19996/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I hold a pen/pencil in a very unique way!<br>
+- &nbsp;&nbsp;<img src="https://github.com/Santana19996/Santana19996/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I hold a pencil more different than anyone you probably ever seen.<br>
 
 <div align="center" >
   
