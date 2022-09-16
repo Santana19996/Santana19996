@@ -73,7 +73,7 @@
 
 <div align="center" >
 
-<video src='https://user-images.githubusercontent.com/78528593/190531446-80700a90-cfee-4ab3-af2c-5cb2277e694f.mp4' width=180/> </video>
+<video autoplay="true" src='https://user-images.githubusercontent.com/78528593/190531446-80700a90-cfee-4ab3-af2c-5cb2277e694f.mp4' width=180/> </video>
   
 </div>
 
