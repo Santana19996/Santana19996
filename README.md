@@ -62,9 +62,9 @@
 <hr></hr>
 
 
-<img src="https://github.com/Santana19996/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/Santana19996" width="700"/>
+<img src="https://c.tenor.com/RFPvnuUIcI8AAAAC/anime-aesthetic.gif" href="https://github.com/Santana19996" width="700"/>
 
-<img src="https://discord.com/api/guilds/987913602444951562/widget.png?style=banner4" alt="Discord Banner 4"/>
+
   
 
 </div>
@@ -76,5 +76,7 @@
 <video src='https://user-images.githubusercontent.com/78528593/190531446-80700a90-cfee-4ab3-af2c-5cb2277e694f.mp4' width=180/> </video>
   
 </div>
-
-
+<hr></hr>
+<div align="center" >
+<img src="https://discord.com/api/guilds/987913602444951562/widget.png?style=banner4" alt="Discord Banner 4"/>
+</div>
