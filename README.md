@@ -5,18 +5,22 @@
   
 <p><strong>Anime and Music LOVER. During the day, 
 <br>I spend time reading & Code at night.
-<br><br> Vibing to : 🎧  </strong></p>
 
+h3>🎶🎧 Vibing to</h3>
 
-
-
-<a href="https://Jinsu1996.pythonanywhere.com?theme=dark">
-  <img
-    src="https://Jinsu1996.pythonanywhere.com"
-    alt="Current Spotify Song"
-  />
+<a href="https://github.com/Santana19996/Spotify-Readme">
+  <picture>
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://Jinsu1996.pythonanywhere.com?theme=light&scan=true&eq_color=rainbow"
+    />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://Jinsu1996.pythonanywhere.com?theme=dark&scan=true&eq_color=rainbow"
+    />
+    <img alt="Current Spotify Song"> <!-- https://github.com/Santana19996/Spotify-Readme -->
+  </picture>
 </a>
-
 
   
 ![Totals Hits](https://komarev.com/ghpvc/?username=Santana19996&style=flat&color=orange&label=PROFILE+VIEWS)
