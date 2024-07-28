@@ -10,7 +10,7 @@
 
 
 
-<a href="https://Jinsu1996.pythonanywhere.com/link?theme=dark">
+<a href="https://Jinsu1996.pythonanywhere.com?theme=dark">
   <img
     src="https://Jinsu1996.pythonanywhere.com"
     alt="Current Spotify Song"
