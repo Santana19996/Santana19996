@@ -10,11 +10,10 @@
 
 
 
-<a href="https://Jinsu1996.pythonanywhere.com/link">
+<a href="https://Jinsu1996.pythonanywhere.com/link?theme=dark">
   <img
     src="https://Jinsu1996.pythonanywhere.com"
     alt="Current Spotify Song"
-    theme=dark
   />
 </a>
 
