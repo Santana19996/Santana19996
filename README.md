@@ -8,12 +8,13 @@
 <br><br> Vibing to : 🎧  </strong></p>
 
 
-[![Spotify](https://spotify-player-4-readme.herokuapp.com/)](https://open.spotify.com/user/31v5wkcq2b7ghju6lp2ezr43gkim)
+
 
 <a href="https://Jinsu1996.pythonanywhere.com/link">
   <img
     src="https://Jinsu1996.pythonanywhere.com"
     alt="Current Spotify Song"
+    ?theme=dark
   />
 </a>
 
