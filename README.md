@@ -14,7 +14,7 @@
   <img
     src="https://Jinsu1996.pythonanywhere.com"
     alt="Current Spotify Song"
-    ?theme=dark
+    theme=dark
   />
 </a>
 
