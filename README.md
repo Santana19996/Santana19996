@@ -6,7 +6,7 @@
 <p><strong>Anime and Music LOVER. During the day, 
 <br>I spend time reading & Code at night.
 
-h3>🎶🎧 Vibing to</h3>
+<h3>🎶🎧 Vibing to</h3>
 
 <a href="https://github.com/Santana19996/Spotify-Readme">
   <picture>
