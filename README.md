@@ -8,7 +8,7 @@
 
 <h3>🎶🎧 Vibing to</h3>
 
-<a href="https://github.com/Santana19996/Spotify-Readme">
+<a href="https://open.spotify.com/user/31v5wkcq2b7ghju6lp2ezr43gkim?si=041df116cbfd44f9">
   <picture>
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
