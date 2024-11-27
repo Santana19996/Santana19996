@@ -53,10 +53,10 @@
 
 
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; **I’m currently working as Java Developer**. <img width="15%" align="right" alt="Github Image" src="https://media4.giphy.com/media/c9IdCLK8TDv1e/giphy.gif?cid=ecf05e47i0wfytxobfcs93z0r6czyuejyvn4i3u8xyo90i30&rid=giphy.gif&ct=g" /><br>
-- <img src="https://github.com/Santana19996/Santana19996/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I'm interested in React, Machine Learning, and Cyber Security. <br>
-- <img src="https://github.com/Santana19996/Santana19996/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or Music**. <br>
-- &nbsp;&nbsp;<img src="https://github.com/Santana19996/Santana19996/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I hold a pencil more different than anyone you probably ever seen.<br>
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; **Java Devloper**. <img width="15%" align="right" alt="Github Image" src="https://media4.giphy.com/media/c9IdCLK8TDv1e/giphy.gif?cid=ecf05e47i0wfytxobfcs93z0r6czyuejyvn4i3u8xyo90i30&rid=giphy.gif&ct=g" /><br>
+- <img src="https://github.com/Santana19996/Santana19996/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I'm interested in Scripting,AI & Cybersecurity<br>
+- <img src="https://github.com/Santana19996/Santana19996/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Tattoos** Movies, or Alt Music**. <br>
+- &nbsp;&nbsp;<img src="https://github.com/Santana19996/Santana19996/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I cant .<br>
 
 <div align="center" >
   
