@@ -3,8 +3,7 @@
 <img src="https://github.com/Santana19996/Santana19996/blob/main/images/hellocoders_rounded.gif" alt="Hello Coders" width="625"/> <br>
 <img src="https://github.com/Santana19996/Santana19996/blob/main/images/dev-working_rounded.gif"  alt="CoDiNg RocKs"  width="550"/><br> 
   
-<p><strong>Anime and Music LOVER. During the day, 
-<br>I spend time reading & Code at night.
+<p><strong>Anime and Music fan</strong></p>
 
 <h3>🎶🎧 Vibing to</h3>
 
