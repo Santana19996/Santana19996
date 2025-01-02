@@ -28,7 +28,7 @@
   <a href="[https://Santana19996.github.io](https://santana19996.github.io/AboutTheGoat/)" target="_blank" style="text-decoration: none; color: red; font-size: 18px; font-family: 'Arial', sans-serif;">
     <img src="https://img.icons8.com/emoji/48/000000/skull-emoji.png" alt="Skull Icon" width="30" style="margin-right: 10px;">
     <div>
-  <h2><a href="https://santana19996.github.io/AboutTheGoat/" target="_blank">Listen in</a></h2>
+  <h2><a href="https://santana19996.github.io/AboutTheGoat/" target="_blank">*:･ﾟ✧*:･ﾟ✧Listen in*:･ﾟ✧*:･ﾟ✧</a></h2>
 </div>
 
 
