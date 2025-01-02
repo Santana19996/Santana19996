@@ -27,7 +27,11 @@
 <div align="center" style="margin-top: 20px;">
   <a href="[https://Santana19996.github.io](https://santana19996.github.io/AboutTheGoat/)" target="_blank" style="text-decoration: none; color: red; font-size: 18px; font-family: 'Arial', sans-serif;">
     <img src="https://img.icons8.com/emoji/48/000000/skull-emoji.png" alt="Skull Icon" width="30" style="margin-right: 10px;">
-<h1>$${\color{red}Lord \space \color{red}Of \space \color{red}{Loneliness}}$$</h1>
+    <div>
+  <h2><a href="https://santana19996.github.io/AboutTheGoat/" target="_blank">Listen in</a></h2>
+</div>
+
+
   </a>
 </div>
 
